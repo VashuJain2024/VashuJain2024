@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a student passionate about **Web Development**
 
 ## 🏆 Badges
 
-# Leetcode Badegs 🪶
+# Leetcode Badges 🪶
 ![2024-50](https://github.com/user-attachments/assets/d2155ad1-eb62-4f48-8506-7d52b9d25fa5)
 
 # GSSOC(24) Badges 🪶
@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a student passionate about **Web Development**
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
 
 ---
