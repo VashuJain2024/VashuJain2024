@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a student passionate about **Web Development**
 
 ## 🛠 Skills
 
+- **UI/UX Design**: Figma, Canva, user-centered design principles
 - **Web Development**: HTML, CSS, JavaScript, Tailwind CSS, React
 - **API Development**: Experienced with APIs, Postman (GET, POST, PATCH, DELETE requests), API documentation, and Postman's codegen feature.
-- **UI/UX Design**: Figma, Canva, user-centered design principles
 - **Data Structures & Algorithms**: Enthusiastic about optimizing code for better performance
 
 ---
