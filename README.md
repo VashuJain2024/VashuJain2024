@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a student passionate about **Web Development**
 ## 🏆 Badges
 
 # Leetcode Badges 🪶
-<img src="https://github.com/user-attachments/assets/d2155ad1-eb62-4f48-8506-7d52b9d25fa5" width="300" height="200" />
+<img src="https://github.com/user-attachments/assets/d2155ad1-eb62-4f48-8506-7d52b9d25fa5" width="200" height="200" />
 
 # GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
