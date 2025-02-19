@@ -66,6 +66,7 @@ Here are some of the projects I’ve worked on to showcase my development skills
 ## 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VashuJain2024&show_icons=true&theme=radical" /> 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VashuJain2024)](https://git.io/streak-stats)
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashuJain2024&layout=compact&theme=radical" />
 </p>
 
