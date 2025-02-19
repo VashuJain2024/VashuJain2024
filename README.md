@@ -63,6 +63,9 @@ Here are some of the projects I’ve worked on to showcase my development skills
 
 ---
 
+## 🎉 Events and Conferences
+
+I recently attended an event focused on emerging technologies, networking, and hands-on experiences, where I connected with industry professionals, communities, tech giants, and startups to learn about real-world tech applications and collaboration opportunities.
 ## 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VashuJain2024&show_icons=true&theme=radical" />   
@@ -82,13 +85,7 @@ Here are some of the projects I’ve worked on to showcase my development skills
 <a href="mailto:jainvashu8533@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>  
-
----
-
-## 🎉 Events and Conferences
-
-I recently attended an event focused on emerging technologies, networking, and hands-on experiences, where I connected with industry professionals, communities, tech giants, and startups to learn about real-world tech applications and collaboration opportunities.
-
+ 
 ---
 
 Thank you for visiting my profile! Let's connect and build something amazing together. 😊
