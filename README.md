@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Vashu Jain
+- <h1 align="center">Hi there, I'm Vashu Jain! 👋</h1>
 
-Welcome to my GitHub profile! I'm a student passionate about **Web Development**, **UI/UX Design**, and **Data Structures & Algorithms (DSA)**. I love creating practical, user-centered web applications and exploring how technology can be used to solve real-world problems.
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;Hackathon+Enthusiast+%7C+Tech+Explorer;JavaScript+%7C+React+%7C+APIs+%7C+DSA;Passionate+About+Innovation+%F0%9F%9A%80" alt="Typing SVG" /> </p>
 ---
 
 ## 🚀 About Me
