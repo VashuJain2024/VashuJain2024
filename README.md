@@ -9,15 +9,13 @@
 - 🎨 I'm currently making Snap AR lenses on lens studio for just fun.
 - 👨‍💻 I have been worked on a college project: an **AR Furniture Website** that helps users visualize furniture in their own space through Augmented Reality.
 - 🌱 Currently learning: **Statistics** and its practical applications for web projects.
-- 💻 Part of the **GirlScript Summer of Code (GSSoC-EXT) - 2024**.
-- 🏆 Recently earned the **Postman API Fundamentals Student Expert badge**.
 
 ---
 
 ## 🏆 Badges
 
 # Leetcode Badges 🪶
-<img src="https://github.com/user-attachments/assets/d2155ad1-eb62-4f48-8506-7d52b9d25fa5" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/d2155ad1-eb62-4f48-8506-7d52b9d25fa5" width="180" height="180" />
 
 # GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
