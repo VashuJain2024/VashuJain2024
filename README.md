@@ -1,6 +1,6 @@
 - <h1 align="center">Hi there, I'm Vashu Jain! 👋</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;Hackathon+Enthusiast+%7C+Tech+Explorer;JavaScript+%7C+React+%7C+APIs+%7C+DSA;Passionate+About+Innovation+%F0%9F%9A%80" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;Hackathon+Enthusiast+%7C+Tech+Explorer;Node.js+%7C+DSA+%7C+APIs+%7C+GeminiAI;Passionate+About+Innovation+%F0%9F%9A%80" alt="Typing SVG" /> </p>
 
 
 ## 🚀 About Me
@@ -30,7 +30,7 @@
 ---
  
 ## 🛠 Tech Stack  
-### *Languages & Frameworks*   
+### *Languages & Skills*   
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6F61?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -41,7 +41,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![APIs](https://img.shields.io/badge/APIs-FF6F61?style=for-the-badge&logo=api&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![APIs](https://img.shields.io/badge/APIs-FF6F61?style=for-the-badge&logo=api&logoColor=white) 
+![Lens Studio](https://img.shields.io/badge/Lens%20Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black) 
 
  ---
  
