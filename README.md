@@ -7,6 +7,7 @@
 ---
 
 ## 🚀 About Me
+
 - 🏆 Finalist at *Hack the Hills* Hackathon at *IIIT Una*.
 - 🚀 I’m currently working on project - 🔭 Building *ServiceSphere*, an e-commerce platform connecting service seekers to service providers.
 - 🎨 I'm currently making Snap AR lenses on lens studio for just fun.
@@ -33,6 +34,7 @@
 ---
  
 ## 🛠 Tech Stack  
+
 ### *Languages & Skills*   
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6F61?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -61,11 +63,17 @@ Here are some of the projects I’ve worked on to showcase my development skills
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect!  
 
-- LinkedIn: [Vashu Jain](https://www.linkedin.com/in/vashu-jain-202064296/)
-- Instagram: [vashu_jain9897](https://www.instagram.com/vashu_jain9897/)
-- Email: [jainvashu8533@gmail.com](mailto:jainvashu8533@gmail.com)
+<a href="https://www.linkedin.com/in/vashu-jain-202064296/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>  
+<a href="https://www.instagram.com/vashu_jain9897/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>  
+<a href="mailto:jainvashu8533@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>  
 
 ---
 
