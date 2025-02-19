@@ -4,8 +4,10 @@
 
 
 ## 🚀 About Me
-
-- 👨‍💻 I'm currently working on a college project: an **AR Furniture Website** that helps users visualize furniture in their own space through Augmented Reality.
+- 🏆 Finalist at *Hack the Hills* Hackathon at *IIIT Una*.
+- 🚀 I’m currently working on project - 🔭 Building *ServiceSphere*, an e-commerce platform connecting service seekers to service providers.
+- 🎨 I'm currently making Snap AR lenses on lens studio for just fun.
+- 👨‍💻 I have been worked on a college project: an **AR Furniture Website** that helps users visualize furniture in their own space through Augmented Reality.
 - 🌱 Currently learning: **Statistics** and its practical applications for web projects.
 - 💻 Part of the **GirlScript Summer of Code (GSSoC-EXT) - 2024**.
 - 🏆 Recently earned the **Postman API Fundamentals Student Expert badge**.
