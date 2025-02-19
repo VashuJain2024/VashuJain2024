@@ -50,14 +50,11 @@
 
 Here are some of the projects I’ve worked on to showcase my development skills and to continuously challenge myself:
 
+- **ServiceSphere**: A website that connects service seekers to service providers (currently working).
 - **AR Furniture Website**: A website that enables users to visualize furniture in real-time using Augmented Reality (AR). This project enhances the user shopping experience by showing how products look in their own space.
-- **Amazon Clone**: A simple clone of the popular e-commerce website **Amazon**, built with **HTML** and **CSS**. The project replicates the Amazon homepage layout, product sections, and styling. This helped me practice creating responsive and visually appealing pages using basic web design principles.
-- **Instagram Clone**: A clone of the popular social media platform **Instagram**, built using **HTML** and **CSS**. This project focuses on replicating the layout, profile pages, and feed of Instagram, helping me understand the importance of responsive design and layout structure.
-- **Netflix Clone**: A clone of **Netflix**, built with **HTML** and **CSS**. This project involves creating the Netflix homepage layout, including movie thumbnails, navigation bars, and user interface design, focusing on responsive grid layouts and user-friendly navigation.
+- **Clones of Popular Platforms**: Developed responsive and visually appealing clones of Amazon, Instagram, and Netflix using HTML and CSS. These projects involved replicating key features such as homepage layouts, navigation bars, product sections, and user interfaces. Through these projects, I gained hands-on experience in responsive design, grid layouts, and creating user-friendly web pages while adhering to modern web design principles.
 - **Portfolio Website**: A personal website to showcase my skills, projects, and achievements. Built with **HTML**, **CSS**, and **JavaScript**, it’s designed to demonstrate my web development and design abilities.
-- **Weather Website**: A simple weather forecasting website that pulls data from a weather API. Built with **JavaScript** and **OpenWeatherMap API**, this project helped me practice API integration and real-time data fetching.
-- **SGPA Calculator in C**: A **console-based SGPA (Semester Grade Point Average) calculator** built in **C**. The program takes user input for grade points of each subject, calculates the SGPA, and displays it. This project helped me practice basic input/output operations and calculations in C.
-- **Tic Tac Toe in C**: A **console-based Tic Tac Toe game** built using **C Language**. This project enhanced my understanding of basic game logic, data structures, and handling user input in C.
+- **Weather Website**: A simple weather forecasting website that pulls data from a weather API. Built with **JavaScript** and **OpenWeatherMap API**, this project helped me practice API integration and real-time data fetching. 
 
 ---
 
