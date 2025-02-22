@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <b>Hello, I'm Vashu!</b>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px">
 </p>
 
 ---
