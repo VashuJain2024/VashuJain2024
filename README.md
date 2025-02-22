@@ -59,9 +59,7 @@ Here are some of the projects I’ve worked on to showcase my development skills
 
 - **ServiceSphere**: A website that connects service seekers to service providers (currently working).
 - **AR Furniture Website**: A website that enables users to visualize furniture in real-time using Augmented Reality (AR). This project enhances the user shopping experience by showing how products look in their own space.
-- **Clones of Popular Platforms**: Developed responsive and visually appealing clones of Amazon, Instagram, and Netflix using HTML and CSS. These projects involved replicating key features such as homepage layouts, navigation bars, product sections, and user interfaces. Through these projects, I gained hands-on experience in responsive design, grid layouts, and creating user-friendly web pages while adhering to modern web design principles.
-- **Portfolio Website**: A personal website to showcase my skills, projects, and achievements. Built with **HTML**, **CSS**, and **JavaScript**, it’s designed to demonstrate my web development and design abilities.
-- **Weather Website**: A simple weather forecasting website that pulls data from a weather API. Built with **JavaScript** and **OpenWeatherMap API**, this project helped me practice API integration and real-time data fetching. 
+- **Clones of Popular Platforms**: Developed responsive and visually appealing clones of Amazon, Instagram, and Netflix using HTML and CSS. These projects involved replicating key features such as homepage layouts, navigation bars, product sections, and user interfaces. Through these projects, I gained hands-on experience in responsive design, grid layouts, and creating user-friendly web pages while adhering to modern web design principles. 
 
 ---
 
