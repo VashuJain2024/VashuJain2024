@@ -2,9 +2,10 @@
 
 ---
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00C2CB&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;Hackathon+Enthusiast+%7C+Tech+Explorer;Node.js+%7C+DSA+%7C+APIs+%7C+GeminiAI;Passionate+About+Innovation+🚀)
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <b>Hello, I'm Vashu!</b>
+</p>
 
 ---
 
