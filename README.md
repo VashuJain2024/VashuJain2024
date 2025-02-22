@@ -3,11 +3,7 @@
 ---
 
 <p align="center">
-  <marquee scrollamount="6" behavior="alternate" width="60%">
-    <span style="color:#00C2CB; font-size: 22px; font-weight: 600;">
-      Web Developer | UI/UX Designer | Hackathon Enthusiast | Tech Explorer 🚀
-    </span>
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=🚀+Web+Developer+%7C+UI%2FUX+Designer;💡+Hackathon+Enthusiast+%7C+Tech+Explorer;🛠️+Node.js+%7C+DSA+%7C+APIs+%7C+GeminiAI;🔥+Passionate+About+Innovation" alt="Typing SVG" />
 </p>
 
 ---
