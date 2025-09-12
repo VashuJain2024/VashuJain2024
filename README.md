@@ -21,10 +21,10 @@
 ## 🏆 Badges
 
 # Leetcode Badges 🪶
-<div style='display:flex; gap: 10px;' align='center'><a href="https://leetcode.com/u/sahabjain627/">
-<img width="180" height="180" alt="2024-50-lg" src="https://github.com/user-attachments/assets/91c85502-5171-43f5-8839-cf9fa0997cbb" />
-<img width="180" height="180" alt="lg2550" src="https://github.com/user-attachments/assets/56e1abc4-41b6-49c8-8217-6419d3864770" />
-<img width="180" height="180" alt="lg25100" src="https://github.com/user-attachments/assets/bd3c48e1-3b28-4bd2-8e9d-37dae2132de2" />
+<div style='display:flex; gap: 10px;'><a href="https://leetcode.com/u/sahabjain627/">
+  <img width="180" height="180" alt="2024-50-lg" src="https://github.com/user-attachments/assets/91c85502-5171-43f5-8839-cf9fa0997cbb" />
+  <img width="180" height="180" alt="lg2550" src="https://github.com/user-attachments/assets/56e1abc4-41b6-49c8-8217-6419d3864770" />
+  <img width="180" height="180" alt="lg25100" src="https://github.com/user-attachments/assets/bd3c48e1-3b28-4bd2-8e9d-37dae2132de2" />
 </div>
 
 # GSSOC(24) Badges 🪶
