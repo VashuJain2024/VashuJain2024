@@ -22,6 +22,8 @@
 
 # Leetcode Badges 🪶
 <img src="https://github.com/user-attachments/assets/d2155ad1-eb62-4f48-8506-7d52b9d25fa5" width="180" height="180" />
+<img width="1080" height="1080" alt="lg2550" src="https://github.com/user-attachments/assets/56e1abc4-41b6-49c8-8217-6419d3864770" />
+<img width="1080" height="1080" alt="lg25100" src="https://github.com/user-attachments/assets/bd3c48e1-3b28-4bd2-8e9d-37dae2132de2" />
 
 # GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
