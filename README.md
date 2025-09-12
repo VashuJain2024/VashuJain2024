@@ -62,9 +62,10 @@
 
 Here are some of the projects I’ve worked on to showcase my development skills and to continuously challenge myself:
 
-- **ServiceSphere**: A website that connects service seekers to service providers (currently working).
-- **AR Furniture Website**: A website that enables users to visualize furniture in real-time using Augmented Reality (AR). This project enhances the user shopping experience by showing how products look in their own space.
-- **Clones of Popular Platforms**: Developed responsive and visually appealing clones of Amazon, Instagram, and Netflix using HTML and CSS. These projects involved replicating key features such as homepage layouts, navigation bars, product sections, and user interfaces. Through these projects, I gained hands-on experience in responsive design, grid layouts, and creating user-friendly web pages while adhering to modern web design principles. 
+- **War on 64 Squares**: A real-time online chess game built with WebSockets, enabling room-based gameplay where two players can play while others spectate. Added modern features like WebRTC-based voice chat for communication, making the game more interactive and engaging.  
+- **ServiceSphere**: A website that connects service seekers to service providers (currently working).  
+- **AR Furniture Website**: A website that enables users to visualize furniture in real-time using Augmented Reality (AR). This project enhances the user shopping experience by showing how products look in their own space.  
+- **Clones of Popular Platforms**: Developed responsive and visually appealing clones of Amazon, Instagram, and Netflix using HTML and CSS. These projects involved replicating key features such as homepage layouts, navigation bars, product sections, and user interfaces. Through these projects, I gained hands-on experience in responsive design, grid layouts, and creating user-friendly web pages while adhering to modern web design principles.  
 
 ---
 
