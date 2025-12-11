@@ -23,10 +23,10 @@
 # Leetcode Badges 🪶
 
 <div style='display:flex; gap: 10px;'><a href="https://leetcode.com/u/sahabjain627/">
-  <img width="150" height="1" alt="lg200" src="https://github.com/user-attachments/assets/eb4adf74-41f1-4dcd-b9e8-681c8170de2b" /> 
-  <img width="150" height="150" alt="2024-50-lg" src="https://github.com/user-attachments/assets/91c85502-5171-43f5-8839-cf9fa0997cbb" />
-  <img width="150" height="150" alt="lg2550" src="https://github.com/user-attachments/assets/56e1abc4-41b6-49c8-8217-6419d3864770" />
   <img width="150" height="150" alt="lg25100" src="https://github.com/user-attachments/assets/bd3c48e1-3b28-4bd2-8e9d-37dae2132de2" />
+  <img width="150" height="150" alt="lg2550" src="https://github.com/user-attachments/assets/56e1abc4-41b6-49c8-8217-6419d3864770" />
+  <img width="150" height="150" alt="2024-50-lg" src="https://github.com/user-attachments/assets/91c85502-5171-43f5-8839-cf9fa0997cbb" />
+  <img width="150" height="150" alt="lg200" src="https://github.com/user-attachments/assets/eb4adf74-41f1-4dcd-b9e8-681c8170de2b" /> 
 </div>
 
 # GSSOC(24) Badges 🪶
