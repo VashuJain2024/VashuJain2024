@@ -69,8 +69,6 @@ I recently attended an event focused on emerging technologies, networking, and h
 ---
 
 ## 📈 GitHub Stats
-
-[![Vashu Jain's GitHub stats](https://github-readme-stats.vercel.app/api?username=VashuJain2024)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VashuJain2024&show_icons=true&theme=radical" />   
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashuJain2024&layout=compact&theme=radical" />
