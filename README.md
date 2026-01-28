@@ -57,8 +57,8 @@
 Here are some of the projects I’ve worked on to showcase my development skills and to continuously challenge myself:
 
 - **AyurSutra - HealthCare Management System**: An AI-powered Ayurveda recommendation system that suggests personalized Panchakarma therapies based on user details such as age, gender, symptoms, and dominant dosha. Built to modernize traditional Ayurvedic consultation through a user-friendly web interface and API-driven recommendations.
-- **War on 64 Squares**: A real-time online chess game built with WebSockets, enabling room-based gameplay where two players can play while others spectate. Added modern features like WebRTC-based voice chat for communication, making the game more interactive and engaging.  
 - **ServiceSphere**: A website that connects service seekers to service providers.  
+- **War on 64 Squares**: A real-time online chess game built with WebSockets, enabling room-based gameplay where two players can play while others spectate. Added modern features like WebRTC-based voice chat for communication, making the game more interactive and engaging.  
 - **AR Furniture Website**: A website that enables users to visualize furniture in real-time using Augmented Reality (AR). This project enhances the user shopping experience by showing how products look in their own space.   
 
 ---
