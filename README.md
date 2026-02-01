@@ -70,8 +70,14 @@ I recently attended an event focused on emerging technologies, networking, and h
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VashuJain2024&show_icons=true&theme=radical" />   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashuJain2024&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VashuJain2024&show_icons=true&theme=radical&cache_seconds=1800"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VashuJain2024&layout=compact&theme=radical&cache_seconds=1800"
+    width="48%"
+  />
 </p>
 
 ---
