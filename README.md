@@ -47,6 +47,50 @@
          style="border-radius: 50%; object-fit: cover;"
          alt="Champion Badge"/> 
 </p>
+ 
+# Leetcode Badges 🪶  
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png"
+       width="100" height="100" alt="500 Days Badge"
+       title="500 Days Badge"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png"
+       width="100" height="100" alt="365 Days Badge"
+       title="365 Days Badge"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png"
+       width="100" height="100" alt="200 Days Badge 2026"
+       title="200 Days Badge 2026"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png"
+       width="100" height="100" alt="100 Days Badge 2026"
+       title="100 Days Badge 2026"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
+       width="100" height="100" alt="50 Days Badge 2026"
+       title="50 Days Badge 2026"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg200.png"
+       width="100" height="100" alt="200 Days Badge 2025"
+       title="200 Days Badge 2025"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png"
+       width="100" height="100" alt="100 Days Badge 2025"
+       title="100 Days Badge 2025"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png"
+       width="100" height="100" alt="50 Days Badge 2025"
+       title="50 Days Badge 2025"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"
+       width="100" height="100" alt="50 Days Badge 2024"
+       title="50 Days Badge 2024"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-4.png"
+       width="100" height="100" alt="April LeetCoding Challenge"
+       title="April LeetCoding Challenge"
+       style="border-radius: 50%; object-fit: cover; margin: 8px;" />
+</p>
 
 ---
  
