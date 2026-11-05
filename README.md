@@ -21,7 +21,7 @@
 ## 🏆 Badges 
 
 # GSSoC'24 Badges 🪶  
-<p align="center"> 
+<p> 
     <img src="./assets/gssoc2024/Share%20Badge.png"
          width="120" height="120"
          style="border-radius: 50%; object-fit: cover;"
@@ -49,7 +49,7 @@
 </p>
  
 # Leetcode Badges 🪶  
-<p align="center">
+<p>
   <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png"
        width="100" height="100" alt="500 Days Badge"
        title="500 Days Badge"
