@@ -21,16 +21,18 @@
 ## 🏆 Badges 
 
 # GSSoC'24 Badges 🪶
-<div align="center">
+## 🏆 GSSoC'24 Badges 🪶
+
+<p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="Postman Badge"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="Badge 1"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="Badge 2"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="Badge 3"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="Badge 4"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="Badge 5"/>
+    <img src="./gssoc2024/Share%20Badge.png" width="120" alt="Postman Badge"/>
+    <img src="./gssoc2024/Share%20Badge%20(2).png" width="120" alt="Explorer Badge"/>
+    <img src="./gssoc2024/Share%20Badge%20(3).png" width="120" alt="Adventurer Badge"/>
+    <img src="./gssoc2024/Share%20Badge%20(4).png" width="120" alt="Trailblazer Badge"/>
+    <img src="./gssoc2024/Share%20Badge%20(5).png" width="120" alt="Summit Seeker Badge"/>
+    <img src="./gssoc2024/Share%20Badge%20(6).png" width="120" alt="Champion Badge"/>
   </a>
-</div>
+</p>
 
 ---
  
