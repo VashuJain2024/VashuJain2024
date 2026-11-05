@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
+- 🚀 Currently working on AyurSutra — building impactful real-world solutions
 - 🏆 Finalist at Hack the Hills Hackathon, IIIT Una
-- 🚀 Currently working on ServiceSphere and AyurSutra — building impactful real-world solutions
 - 🧠 Consistently practicing DSA to improve logic and efficiency
 - 🌱 Learning something new every day and exploring modern tech stacks
 
